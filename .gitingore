@@ -1,0 +1,3 @@
+/gnu-efi/x86_64/bootloader/
+/kernel/bin/PixfriOS.img
+/kernel/bin/kernel.elf

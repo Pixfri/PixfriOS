@@ -20,7 +20,7 @@ My custom operating system programmed in C and C++
   
   For Windows users:
     Open a wsl terminal
-      type the commands "make kernel" then "make buildimg" for building the image
+      type the commands "make kernel" then "make buildimg" to build the image
   
   For Linux users:
     Open a terminal
